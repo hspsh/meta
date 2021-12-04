@@ -8,6 +8,7 @@ authors = ["not7cd <norbert@not7cd.net>"]
 python = "^3.8"
 Django = "^3.2.9"
 Authlib = "^0.15.5"
+requests = "^2.26.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^6.2.5"
